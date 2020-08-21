@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hellow World 👋
+
+Meu nome é Vinicius mas pode me chamar de Black, Trabalho com desenvolvimento Front-End desde 2020, ainda sou um junior mas algum dia seria uma grande Dev Cansado.
+Atualmente trabalho na [Fidelizar Mais](https://fidelizarmais.co/)
 
 <!--
 **viniblack/viniblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
