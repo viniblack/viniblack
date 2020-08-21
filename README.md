@@ -1,8 +1,14 @@
 ### Hellow World 👋
 
-Meu nome é Vinicius mas pode me chamar de **Black**, Trabalho com desenvolvimento Front-End desde 2020, ainda sou um junior mas algum dia seria uma grande Dev Cansado :smile:.
+Meu nome é Vinicius mas pode me chamar de **Black**, Trabalho com desenvolvimento Front-End desde 2020, ainda sou um junior mas algum dia seria uma grande Dev Cansado :sweat_smile:.
 
-Atualmente trabalho na [Fidelizar Mais](https://fidelizarmais.co/). Sou uma pessoa que gosta de aprender coisas novas e de entrar em grandes desafios
+Atualmente trabalho na [Fidelizar Mais](https://fidelizarmais.co/). Sou uma pessoa que gosta de aprender coisas novas e de entrar em grandes desafios.
+
+No meu tempo livre gosto de assistir filmes🎞️, séries 📺, ler livros 📚 e tocar algum instrumento :musical_note:
+
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BlackVinii)](https://twitter.com/BlackVinii)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniblack)](https://www.linkedin.com/in/viniblack)
 
 <!--
 **viniblack/viniblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
