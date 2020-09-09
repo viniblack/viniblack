@@ -1,4 +1,4 @@
-### Hellow World 👋
+### Hello World 👋
 
 Meu nome é Vinicius mas pode me chamar de **Black**, Trabalho com desenvolvimento Front-End desde 2020, ainda sou um junior mas algum dia seria uma grande Dev ~~Cansado~~ :sweat_smile:.
 
