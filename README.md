@@ -2,7 +2,7 @@
 
 Meu nome é Vinicius mas pode me chamar de **Black**, Trabalho com desenvolvimento Front-End desde 2020, ainda sou um junior mas algum dia seria uma grande Dev ~~Cansado~~ :sweat_smile:.
 
-Atualmente trabalho na [Fidelizar Mais](https://fidelizarmais.co/). Busco sempre novos desafios para sempre estar aprendo algo novo.
+Atualmente estou procurando uma empresa aonde consiga aprender coisas novas para crescermos juntos
 
 No meu tempo livre gosto de assistir filmes🎞️, séries 📺, ler livros 📚 e tocar algum instrumento :musical_note:
 
