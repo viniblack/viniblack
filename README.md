@@ -2,8 +2,8 @@
 
 Meu nome é Vinicius mas pode me chamar de **Black**, Trabalho com desenvolvimento Web desde 2020.
 
-Trabalho como QA na RECIV e estou cursando tecnólogo em sistema para internet.
-Ultimamente estou estudando sobre blockchain e a web3. 
+Atualmente estou trabalho como QA na [RECIV](https://www.receiv.it/) e estou cursando tecnólogo em sistema para internet.
+Estou aprendendo um pouco mais sobre blockchain e a web3. 
 
 No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 e tocar algum instrumento 🎸
 
@@ -24,6 +24,9 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
 </div>
+  
+  <br>
+  <br>
   
 <div>
   <a href="https://github.com/viniblack">
