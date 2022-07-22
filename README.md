@@ -11,7 +11,7 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/viniblack) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/>](https://twitter.com/BlackVinii)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" height="30"/>](mailto:viniciusslsantana@gmail.com)
-[<img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/dev-badge.svg" style="width: 2rem">](https://www.web3dev.com.br/viniblack)
+[<img alt="Blog" src="https://web3dev-forem-production.s3.amazonaws.com/uploads/logos/resized_logo_dQF5hMwMXhqcpZy165dN.png" width="21" style="width: 1.3rem">](https://www.web3dev.com.br/viniblack)
 
   
 ### Ferramentas e Tecnologias
