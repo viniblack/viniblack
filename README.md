@@ -13,11 +13,9 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" height="30"/>](mailto:viniciusslsantana@gmail.com)
 [<img alt="Blog" src="https://web3dev-forem-production.s3.amazonaws.com/uploads/logos/resized_logo_dQF5hMwMXhqcpZy165dN.png" width="21" style="width: 1.3rem">](https://www.web3dev.com.br/viniblack)
 
-  
+  <hr>
 ### Ferramentas e Tecnologias
 <div>
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -28,14 +26,14 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
   
+<!--
 
-<hr>
-<div>
+ <div>
   <a href="https://github.com/viniblack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniblack&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<!--
+
 **viniblack/viniblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
