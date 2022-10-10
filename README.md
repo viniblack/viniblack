@@ -29,6 +29,7 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 
+<br>
 
  <div>
   <a href="https://github.com/viniblack">
