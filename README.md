@@ -14,7 +14,10 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
 [<img alt="Blog" src="https://web3dev-forem-production.s3.amazonaws.com/uploads/logos/resized_logo_dQF5hMwMXhqcpZy165dN.png" width="21" style="width: 1.3rem">](https://www.web3dev.com.br/viniblack)
 
   <hr>
+  
 ### Ferramentas e Tecnologias
+
+  
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -25,7 +28,6 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
-  
 <!--
 
  <div>
