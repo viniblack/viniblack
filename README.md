@@ -31,11 +31,12 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
 
 <br>
 
+<!--
  <div>
   <a href="https://github.com/viniblack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniblack&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!--
+
 
 **viniblack/viniblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
