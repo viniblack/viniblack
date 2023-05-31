@@ -1,12 +1,10 @@
 ## Hello World 👋
 
-Sou o Vinicius mas pode me chamar de **Black**, Trabalho com desenvolvimento Web desde 2020.
+Sou o Vinicius, mas pode me chamar de **Black**. Trabalho como desenvolvedor web desde 2020 e sou formado em sistemas para internet. 
 
-Formado no tecnólogo de sistema para internet.
+Atualmente, estou dedicando meu tempo para aprender mais sobre blockchain, web3 e o mundo cripto. Apesar disso, minha paixão continua sendo o desenvolvimento backend ❤.
 
-Atualmente estou aprendendo um pouco mais sobre blockchain e a web3 e o mundo cripto, mas ainda sou muito apaixonado pelo backend. 
-
-No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 e tocar algum instrumento 🎸
+Nos momentos de lazer, gosto de assistir filmes 🎥 e séries 📺, ler livros 📖, de tocar algum instrumento 🎸 e de vez enquando de  ensinar alguma coisa de programação no meu blog 📒.
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/viniblack) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/>](https://twitter.com/BlackVinii)
@@ -38,9 +36,14 @@ No meu tempo livre gosto de assistir filmes 🎥, séries 📺, ler livros 📖 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
 </div>
-
 <br>
-
+<hr>
+<p>
+<a href="https://github.com/viniblack">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniblack&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniblack&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
  <div>
   <a href="https://github.com/viniblack">
