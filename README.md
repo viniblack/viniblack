@@ -4,17 +4,21 @@ Sou o Vinicius, mas pode me chamar de **Black**. Trabalho como desenvolvedor web
 
 Atualmente, estou dedicando meu tempo para aprender mais sobre blockchain, web3 e o mundo cripto. Apesar disso, minha paixão continua sendo o desenvolvimento backend ❤.
 
-Nos momentos de lazer, gosto de assistir filmes 🎥 e séries 📺, ler livros 📖, de tocar algum instrumento 🎸 e de vez enquando de  ensinar alguma coisa de programação no meu blog 📒.
+<!--Nos momentos de lazer, gosto de assistir filmes 🎥 e séries 📺, ler livros 📖, de tocar algum instrumento 🎸 e de vez enquando de  ensinar alguma coisa de programação no meu blog 📒.-->
+
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/viniblack) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/>](https://twitter.com/BlackVinii)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" height="30"/>](mailto:viniciusslsantana@gmail.com)
 [<img alt="Blog" src="https://web3dev-forem-production.s3.amazonaws.com/uploads/logos/resized_logo_dQF5hMwMXhqcpZy165dN.png" width="21" style="width: 1.3rem">](https://www.web3dev.com.br/viniblack)
 
-  <hr>
+ 
   
-### Ferramentas e Tecnologias
 
+<!--
+ <hr>
+ 
+### Ferramentas e Tecnologias
   
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
