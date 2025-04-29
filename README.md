@@ -10,9 +10,6 @@ colaborativo e engajamento em comunidade. Proativo, adaptável e sempre em busca
 
 <!--Nos momentos de lazer, gosto de assistir filmes 🎥 e séries 📺, ler livros 📖, de tocar algum instrumento 🎸 e de vez enquando de  ensinar alguma coisa de programação no meu blog 📒.-->
 
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/viniblack) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/>](https://twitter.com/BlackVinii)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" height="30"/>](mailto:viniciusslsantana@gmail.com)
 [<img alt="Blog" src="https://web3dev-forem-production.s3.amazonaws.com/uploads/logos/resized_logo_dQF5hMwMXhqcpZy165dN.png" width="21" style="width: 1.3rem">](https://www.web3dev.com.br/viniblack)
 
