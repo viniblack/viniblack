@@ -1,8 +1,12 @@
 ## Hello World 👋
 
-Sou o Vinicius, mas pode me chamar de **Black**. Trabalho como desenvolvedor web desde 2020 e sou formado em sistemas para internet. 
+Sou o Vinicius, mas pode me chamar de **Black**.
 
-Atualmente, estou dedicando meu tempo para aprender mais sobre blockchain, web3 e o mundo cripto. Apesar disso, minha paixão continua sendo o desenvolvimento backend ❤.
+Tenho mais de 4 anos de experiência em desenvolvimento web, atuando em projetos que envolvem desde startups até plataformas educacionais
+focadas em Web3. Tenho domínio em tecnologias como JavaScript, PHP, Laravel, React, Next.js, NestJS e Firebase, além de práticas sólidas em testes
+automatizados com Jest, Cypress e Postman. Meu foco está na construção de aplicações escaláveis, com atenção à qualidade de código,
+performance e experiência do usuário. Também atuo de forma voluntária como líder de grupo de estudos em blockchain, promovendo aprendizado
+colaborativo e engajamento em comunidade. Proativo, adaptável e sempre em busca de soluções eficientes e inovadoras.
 
 <!--Nos momentos de lazer, gosto de assistir filmes 🎥 e séries 📺, ler livros 📖, de tocar algum instrumento 🎸 e de vez enquando de  ensinar alguma coisa de programação no meu blog 📒.-->
 
