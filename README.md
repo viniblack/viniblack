@@ -9,6 +9,7 @@ Sou desenvolvedor full stack com mais de 4 anos de experiência em projetos que 
 - **Testes automatizados** com **Jest**, **Cypress**, **Postman**
 
 Sou reconhecido por minha **proatividade**, **adaptabilidade** e **atenção à qualidade de código**, além de contribuir ativamente para comunidades de tecnologia — inclusive liderando grupos de estudos em blockchain.
+
 ---
 
 ### 🧠 O que me move?
