@@ -9,9 +9,6 @@ Sou desenvolvedor full stack com mais de 4 anos de experiência em projetos que 
 - **Testes automatizados** com **Jest**, **Cypress**, **Postman**
 
 Sou reconhecido por minha **proatividade**, **adaptabilidade** e **atenção à qualidade de código**, além de contribuir ativamente para comunidades de tecnologia — inclusive liderando grupos de estudos em blockchain.
-
-📍 São Paulo, Brasil
-
 ---
 
 ### 🧠 O que me move?
@@ -48,8 +45,8 @@ Sou reconhecido por minha **proatividade**, **adaptabilidade** e **atenção à 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </div>
 
----
 <!--
+---
 ### 📊 Estatísticas GitHub
 
 <p align="center">
